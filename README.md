@@ -10,3 +10,5 @@ I am using this repository to get some hands on Github and Docker.
 - git commit -m "message": commit
 - git push: push
 - git pull: pull
+- git push --set-upstream <origin branch> <destination branch>: To push the current branch and set the remote as upstream
+- git merge <with which branch we want to merge>: how to merge branches
