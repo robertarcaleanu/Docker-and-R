@@ -1,3 +1,3 @@
 # Docker-and-R
 
-This a readme
+I am using this repository to get some hands on Github and Docker
