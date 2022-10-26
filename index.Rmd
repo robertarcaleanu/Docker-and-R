@@ -8,6 +8,7 @@ date: "2022-10-26"
 knitr::opts_chunk$set(echo = TRUE)
 library(data.table)
 library(ggplot2)
+library(kableExtra)
 ```
 
 ## R Markdown
